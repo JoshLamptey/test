@@ -1,9 +1,9 @@
 
 import './App.css';
-import Header from './Header';
-import Body from './Main';
-import Footer from './Footer';
-
+import Header from '../components/Header';
+import Body from '../components/Main';
+import Footer from '../components/Footer';
+   
 export default function Page(){
   return(
     <div>
